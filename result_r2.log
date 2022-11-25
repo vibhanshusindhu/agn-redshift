@@ -1,0 +1,22 @@
+          rank  ensemble_weight        type      cost  duration
+model_id                                                       
+416          1         0.366667  libsvm_svr  0.481805  4.023841
+403          2         0.033333  libsvm_svr  0.481833  3.912114
+348          3         0.033333  libsvm_svr  0.482272  3.921675
+448          4         0.566667  libsvm_svr  0.482291  4.544999
+auto-sklearn results:
+  Dataset name: agn
+  Metric: r2
+  Best validation score: 0.518195
+  Number of target algorithm runs: 982
+  Number of successful target algorithm runs: 892
+  Number of crashed target algorithm runs: 4
+  Number of target algorithms that exceeded the time limit: 84
+  Number of target algorithms that exceeded the memory limit: 2
+
+Train R2 score: 0.5432875525992605
+Test R2 score: 0.38326269462077733
+Train MAE score: 0.30807525262186436
+Test MAE score: 0.33512288788985595
+Train RMSE score: 0.44784682604634857
+Test RMSE score: 0.5473665033237481
