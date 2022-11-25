@@ -1,1 +1,1 @@
-# agn-redshift
+# agn-redshift-estimator
